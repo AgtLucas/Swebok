@@ -520,7 +520,7 @@ a {
 	size:$width $height;
 }
 #Cover h2,
-#Cover h3, 
+#Cover h3,
 #Cover h4 {
 	margin:30px 0 0;
 	color:#666;
@@ -548,14 +548,8 @@ a {
 	height:0.72em;
 }
 
-.seam-arc {
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	-webkit-transform: translate(-50%, -50%);
-	-moz-transform: translate(-50%, -50%);
-	-ms-transform: translate(-50%, -50%);
-	-o-transform: translate(-50%, -50%);
-	transform: translate(-50%, -50%);
-	width: 600px;
+.img-center {
+	display: block;
+	margin: auto;
+	width: 50%;
 }
