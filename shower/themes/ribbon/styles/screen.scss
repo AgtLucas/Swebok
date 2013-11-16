@@ -242,7 +242,7 @@ a {
 		}
 	// Cover
 	&.cover {
-		background:#888;
+		background:#fff;
 		@mixin cover {
 			img, svg, video,
 			object, canvas {
@@ -519,16 +519,18 @@ a {
 	margin:0;
 	size:$width $height;
 }
-#Cover h2 {
+#Cover h2,
+#Cover h3, 
+#Cover h4 {
 	margin:30px 0 0;
-	color:#FFF;
+	color:#666;
 	text-align:center;
 	font-size:70px;
 }
 #Cover p {
 	margin:10px 0 0;
 	text-align:center;
-	color:#FFF;
+	color:#333;
 	font-style:italic;
 	font-size:20px;
 }
