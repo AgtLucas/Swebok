@@ -121,7 +121,7 @@ a {
 	// Text
 	p {
 		margin:0 0 40px;
-		line-height: 1.7;
+		line-height: 1.4;
 		}
 	p.note {
 		color:#999;
@@ -486,6 +486,8 @@ a {
 			// Next
 			.next {
 				visibility:hidden;
+				line-height: 1.2;
+				font-size: 20px;
 				&.active {
 					visibility:visible;
 					}

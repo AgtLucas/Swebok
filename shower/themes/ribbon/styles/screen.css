@@ -166,7 +166,7 @@ a {
   font: bold 50px/1 'PT Sans Narrow', sans-serif; }
 .slide p {
   margin: 0 0 40px;
-  line-height: 1.7; }
+  line-height: 1.4; }
 .slide p.note {
   color: #999; }
 .slide a {
@@ -470,7 +470,9 @@ a {
       left: 0;
       margin-left: 150%; }
       .full .slide .next {
-        visibility: hidden; }
+        visibility: hidden;
+        line-height: 1.2;
+        font-size: 20px; }
         .full .slide .next.active {
           visibility: visible; }
       .full .slide:target {
