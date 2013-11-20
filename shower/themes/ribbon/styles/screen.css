@@ -199,10 +199,11 @@ a {
     font-style: italic;
     font-weight: bold; }
 .slide ol, .slide ul {
-  margin: 0 0 50px;
+  margin: 0 0 40px;
   counter-reset: list; }
   .slide ol li, .slide ul li {
-    text-indent: -2em; }
+    text-indent: -2em;
+    margin-bottom: 5px; }
     .slide ol li:before, .slide ul li:before {
       display: inline-block;
       width: 2em;

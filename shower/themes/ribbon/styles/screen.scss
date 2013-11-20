@@ -163,10 +163,11 @@ a {
 		}
 	// Lists
 	ol, ul {
-		margin:0 0 50px;
+		margin:0 0 40px;
 		counter-reset:list;
 		li {
 			text-indent:-2em;
+			margin-bottom: 5px;
 			&:before {
 				display:inline-block;
 				width:2em;
