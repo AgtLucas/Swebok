@@ -40,19 +40,29 @@
 	* Métodos;
 	* Ferramentas;
 	
-* Os processos seguem os métodos e estes se utilizam de ferramentas
+#####Os processos seguem os métodos e estes se utilizam de ferramentas
+
 * Visam resolver problemas inerentes:
 	* Ao processo;
 	* Ao produto;
 	
-* Ferramentas CASE, são programas de computador que têm como objetivo, fornecer um suporte automatizado para as atividades de processo de software.
-	* **2 níveis**;
-	* Alto nível: suportam as atividades iniciais de requisitos e projetos;
-	* Baixo nível: suportam as atividades de programação, depuração e testes;
+#####Ferramentas CASE, são programas de computador que têm como objetivo, fornecer um suporte automatizado para as atividades de processo de software.
+
+* **2 níveis**;
+* Alto nível: suportam as atividades iniciais de requisitos e projetos;
+* Baixo nível: suportam as atividades de programação, depuração e testes;
 	
-* Modelo de processo de software é uma representação simplificada de um processo de software, os principais são:
-	* Cascata ou sequencial;
-	* Modelo evolutivo;
-	* Transformação formal;
-	* Integração de componentes reusáveis;
-	* Espiral   
+#####Modelo de processo de software é uma representação simplificada de um processo de software, os principais são:
+
+* Cascata ou sequencial;
+* Modelo evolutivo;
+* Transformação formal;
+* Integração de componentes reusáveis;
+* Espiral;
+	
+#####Objetivos dos Modelos de processo:
+
+* Auxiliar no processo de produção;
+* Atributos: complexidade, visibilidade, aceitabilidade, etc;
+* Possibilitar ao gerente o controle do processo de desenvolvimento de sistemas de software, e ao desenvolvedor obter uma base para produzir de maneira eficiente, software que cumpra com os requisitos pré-estabelecidos
+
