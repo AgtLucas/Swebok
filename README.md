@@ -66,3 +66,10 @@
 * Atributos: complexidade, visibilidade, aceitabilidade, etc;
 * Possibilitar ao gerente o controle do processo de desenvolvimento de sistemas de software, e ao desenvolvedor obter uma base para produzir de maneira eficiente, software que cumpra com os requisitos pré-estabelecidos
 
+#####Processo de Software é um conjunto de atividades que objetivam o desenvolvimento e a evolução de software
+
+* De maneira geral, as principais atividades são:
+	* Especificação: define o que o sistema deverá fazer;
+	* Desenvolvimento: produção do software;
+	* Validação: checagem se o software faz o que o usuário deseja;
+	* Evolução: alterações do software; 
