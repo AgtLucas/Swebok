@@ -26,3 +26,21 @@
 ###Custos
 
 * 60% dos custos é para o desenvolvimento, 40% para os testes
+
+###￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Engenharia de Software - princípios
+
+* Formalidade
+* Abastração
+* Decomposição
+* Generalização
+* Flexibilização
+
+* A Engenharia de Software é uma disciplina que reúne:
+	* Processos;
+	* Métodos;
+	* Ferramentas;
+	
+* Os processos seguem os métodos e estes se utilizam de ferramentas
+* Visam resolver problemas inerentes:
+	* Ao processo;
+	* Ao produto;  
