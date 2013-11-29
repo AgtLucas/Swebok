@@ -7,7 +7,7 @@
 * Existem dois Grandes Processos: Produção e Gestão de Requisitos: Decompoem o UML.
 * Descriçao de Caso de Uso: Mostra em Detalhes o fluxo de execução do Sistema, Fluxos alternativos.
 * Um requisito pode se decompor em varios casos de uso.
-* Backlog de Produto: Conjunto de caso de uso.
+* Backlog de Produto: Conjunto de casos de uso.
 * Nova Versão: Novas Funcionalidades, Melhorias, Bugs e Tarefas.
 * Requisitos: Necessidade, Caracteristicas.
 
@@ -16,7 +16,20 @@
 * Requisitos: É a solução de um Problema.
 * Projeto Finalizado: Quando alcançou aou quando não pode mais alcançar os objetivos planejados.
 
+---
 
+* Requisitos: É uma caracteristica do sistema ou descrição de algo que o sistema é capaz de realizar para atingir seus objetivos.
+
+* Requisitos Funcionais: Ligados diretamente as funcionalidades do software, as funções que o mesmo deve realizar: EX.: 	* Permitir cadastro de cliente;
+	* Permitir geração de relatórios;
+ 
+* Requisitos Não-funcionais: Expressa condições, qualidades, que o software deve ter e atender. Colocam restrições no sistema: 	* Deve ser compatível com IE9+; 
+	* Deve fazer em 5s a consulta;
+
+* Requisitos de Domínio: Descrevem as características e as qualidadess que refletem o dominio. Podem  ser requisitos funcionais novos, restrições sobre requisitos existentes  ou computações específicas. 
+	* Um aluno pode se matricular em uma disciplina desde que ele tenha sido aprovado nas disciplinas consideradas pré-requisitos.
+
+---
 
 ###Objetivos da Engenharia de Software
 
